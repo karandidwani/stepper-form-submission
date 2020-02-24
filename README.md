@@ -12,10 +12,10 @@ Flow -
 
 ![Screenshot for default page on page load](https://github.com/karandidwani/stepper-form-submission/blob/master/screenshots/Screen%20Shot%202020-02-24%20at%2011.28.48%20AM.png)
 
-![On opening question and answering](/screenshots/Screen Shot 2020-02-24 at 11.29.05 AM.png)
+![On opening question and answering](https://github.com/karandidwani/stepper-form-submission/blob/master/screenshots/Screen%20Shot%202020-02-24%20at%2011.29.05%20AM.png)
 
-![GitHub Logo](/images/logo.png)
+![On leaving values blank for a question](https://github.com/karandidwani/stepper-form-submission/blob/master/screenshots/Screen%20Shot%202020-02-24%20at%2011.29.26%20AM.png)
 
-![GitHub Logo](/images/logo.png)
+![On accepting the policy, the button is disabled](https://github.com/karandidwani/stepper-form-submission/blob/master/screenshots/Screen%20Shot%202020-02-24%20at%2011.29.47%20AM.png)
 
-![GitHub Logo](/images/logo.png)
+![When life is good](https://github.com/karandidwani/stepper-form-submission/blob/master/screenshots/Screen%20Shot%202020-02-24%20at%2011.29.55%20AM.png)

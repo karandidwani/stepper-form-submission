@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="app.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+  <title>Stepper Form </title>
+</head>
+
+<body class="main">
+  <h2></h2>
+  <p></p>
+  <div class="container">
+    <div class="main-heading">
+      <h1 class="display-3">Stepper Form</h1>
+    </div>
+    <br />
+    <p class="lead">Click to open the questions:</p>
+    <form action="" class="form">
+      <button type="button" class="collapsible" id="q1">Question 1</button>
+      <div class="content">
+        <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+            placeholder="Enter email" />
+        </div>
+      </div>
+      <button type="button" class="collapsible" id="q2">Question 2</button>
+      <div class="content">
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" />
+        </div>
+      </div>
+      <button type="button" class="collapsible" id="q3">Question 3</button>
+      <div class="content">
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1" />
+          <label class="form-check-label" for="exampleCheck1">
+            Accept our blah blah policy to continue
+          </label>
+        </div>
+        <div class="submit-btn-div">
+          <button type="submit" id="submit" class="btn btn-primary btn-lg btn-block">
+            Submit
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+
+  <script src="app.js"></script>
+</body>
+
+</html>

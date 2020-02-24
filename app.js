@@ -31,6 +31,7 @@ password.addEventListener("focusout", function () {
         document.getElementById("submit").disabled = false;
     } else {
         document.getElementById("q2").style.backgroundColor = "red";
+        document.getElementById("submit").disabled = true;
     }
 });
 
